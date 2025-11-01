@@ -1,0 +1,355 @@
+Laptop Products:
+[
+    {
+        "id": "jvPNdN7gaxi4yiFmlmnQ",
+        "imageUrls": [
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/14188382/pexels-photo-14188382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/18525574/pexels-photo-18525574/free-photo-of-unboxing-iphone-15-pro-max-box-in-natural-titanium-color-mention-zana_qaradaghy-on-instagram-while-use-this-photo-follow-on-instagram-zana_qaradaghy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16333805/pexels-photo-16333805/free-photo-of-a-blue-phone-case-sitting-on-top-of-a-laptop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16005007/pexels-photo-16005007/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ],
+        "subCategory": "Smartphone",
+        "chats": 0,
+        "price": "258855",
+        "condition": "New - Open Box",
+        "brand": "Blackberry",
+        "pta": false,
+        "likes": [],
+        "showSellerContact": false,
+        "views": 0,
+        "subSubCategory": null,
+        "postedDate": {
+            "seconds": 1744118200,
+            "nanoseconds": 408579000
+        },
+        "status": "active",
+        "title": "ggdghhhj",
+        "sellerRef": {
+            "converter": null,
+            "_key": {
+                "path": {
+                    "segments": [
+                        "projects",
+                        "dibba-tech",
+                        "databases",
+                        "(default)",
+                        "documents",
+                        "users",
+                        "YRio326MIdMOszcnJgjRuZ5OP672"
+                    ],
+                    "offset": 5,
+                    "len": 2
+                }
+            },
+            "type": "document",
+            "firestore": {
+                "app": {
+                    "_isDeleted": false,
+                    "_options": {
+                        "apiKey": "AIzaSyBXFbnHYkonuChj6E9rRLx_Ax8pk_7QlWw",
+                        "authDomain": "dibba-tech.firebaseapp.com",
+                        "projectId": "dibba-tech",
+                        "storageBucket": "dibba-tech.firebasestorage.app",
+                        "messagingSenderId": "563649470637",
+                        "appId": "1:563649470637:web:370bf805c4093a9f4a6624"
+                    },
+                    "_config": {
+                        "name": "[DEFAULT]",
+                        "automaticDataCollectionEnabled": false
+                    },
+                    "_name": "[DEFAULT]",
+                    "_automaticDataCollectionEnabled": false,
+                    "_container": {
+                        "name": "[DEFAULT]",
+                        "providers": {}
+                    }
+                },
+                "databaseId": {
+                    "projectId": "dibba-tech",
+                    "database": "(default)"
+                },
+                "settings": {
+                    "host": "firestore.googleapis.com",
+                    "ssl": true,
+                    "ignoreUndefinedProperties": false,
+                    "cacheSizeBytes": 41943040,
+                    "experimentalForceLongPolling": false,
+                    "experimentalAutoDetectLongPolling": true,
+                    "experimentalLongPollingOptions": {},
+                    "useFetchStreams": true
+                }
+            }
+        },
+        "location": "Rawalpindi",
+        "sellerId": "YRio326MIdMOszcnJgjRuZ5OP672",
+        "deliverable": "No",
+        "mainCategory": "Mobile",
+        "description": "vdtgvh\n\n"
+    },
+    {
+        "id": "RZ6znnEYDRhL8DmPlJkS",
+        "subCategory": "Smartphone",
+        "imageUrls": [
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/14188382/pexels-photo-14188382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/18525574/pexels-photo-18525574/free-photo-of-unboxing-iphone-15-pro-max-box-in-natural-titanium-color-mention-zana_qaradaghy-on-instagram-while-use-this-photo-follow-on-instagram-zana_qaradaghy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16333805/pexels-photo-16333805/free-photo-of-a-blue-phone-case-sitting-on-top-of-a-laptop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16005007/pexels-photo-16005007/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ],
+        "showSellerContact": false,
+        "price": "2500000",
+        "views": 0,
+        "title": "Iphone 150 pro maximum",
+        "mainCategory": "Mobile",
+        "brand": "Iphone",
+        "sellerRef": {
+            "converter": null,
+            "_key": {
+                "path": {
+                    "segments": [
+                        "projects",
+                        "dibba-tech",
+                        "databases",
+                        "(default)",
+                        "documents",
+                        "users",
+                        "YRio326MIdMOszcnJgjRuZ5OP672"
+                    ],
+                    "offset": 5,
+                    "len": 2
+                }
+            },
+            "type": "document",
+            "firestore": {
+                "app": {
+                    "_isDeleted": false,
+                    "_options": {
+                        "apiKey": "AIzaSyBXFbnHYkonuChj6E9rRLx_Ax8pk_7QlWw",
+                        "authDomain": "dibba-tech.firebaseapp.com",
+                        "projectId": "dibba-tech",
+                        "storageBucket": "dibba-tech.firebasestorage.app",
+                        "messagingSenderId": "563649470637",
+                        "appId": "1:563649470637:web:370bf805c4093a9f4a6624"
+                    },
+                    "_config": {
+                        "name": "[DEFAULT]",
+                        "automaticDataCollectionEnabled": false
+                    },
+                    "_name": "[DEFAULT]",
+                    "_automaticDataCollectionEnabled": false,
+                    "_container": {
+                        "name": "[DEFAULT]",
+                        "providers": {}
+                    }
+                },
+                "databaseId": {
+                    "projectId": "dibba-tech",
+                    "database": "(default)"
+                },
+                "settings": {
+                    "host": "firestore.googleapis.com",
+                    "ssl": true,
+                    "ignoreUndefinedProperties": false,
+                    "cacheSizeBytes": 41943040,
+                    "experimentalForceLongPolling": false,
+                    "experimentalAutoDetectLongPolling": true,
+                    "experimentalLongPollingOptions": {},
+                    "useFetchStreams": true
+                }
+            }
+        },
+        "condition": "New - Open Box",
+        "subSubCategory": null,
+        "status": "active",
+        "description": "hansns\nsbbsdbs\nsbsbsbsbd\nhssbbsbdns\nhsbsbdbdnd\n\n\nshdbdbdbdsbs\n\n\n\n\n\ndhdhfhsndjdjdnxnsbsb",
+        "location": "Karachi",
+        "chats": 0,
+        "pta": false,
+        "postedDate": {
+            "seconds": 1743976003,
+            "nanoseconds": 917759000
+        },
+        "deliverable": "No",
+        "sellerId": "YRio326MIdMOszcnJgjRuZ5OP672",
+        "likes": []
+    },
+    {
+        "id": "JDxHLgDaeVRQT8g2JSil",
+        "mainCategory": "Mobile",
+        "location": "Quetta",
+        "brand": "Acer",
+        "views": 9,
+        "likes": [],
+        "description": "asdasdasd",
+        "imageUrls": [
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/14188382/pexels-photo-14188382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/18525574/pexels-photo-18525574/free-photo-of-unboxing-iphone-15-pro-max-box-in-natural-titanium-color-mention-zana_qaradaghy-on-instagram-while-use-this-photo-follow-on-instagram-zana_qaradaghy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16333805/pexels-photo-16333805/free-photo-of-a-blue-phone-case-sitting-on-top-of-a-laptop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16005007/pexels-photo-16005007/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ],
+        "pta": false,
+        "subSubCategory": null,
+        "price": "455222",
+        "chats": 0,
+        "sellerId": "jY67WkEI8dhqiSHy5On4ryrNDyu1",
+        "subCategory": "Smartphone",
+        "sellerRef": {
+            "converter": null,
+            "_key": {
+                "path": {
+                    "segments": [
+                        "projects",
+                        "dibba-tech",
+                        "databases",
+                        "(default)",
+                        "documents",
+                        "users",
+                        "jY67WkEI8dhqiSHy5On4ryrNDyu1"
+                    ],
+                    "offset": 5,
+                    "len": 2
+                }
+            },
+            "type": "document",
+            "firestore": {
+                "app": {
+                    "_isDeleted": false,
+                    "_options": {
+                        "apiKey": "AIzaSyBXFbnHYkonuChj6E9rRLx_Ax8pk_7QlWw",
+                        "authDomain": "dibba-tech.firebaseapp.com",
+                        "projectId": "dibba-tech",
+                        "storageBucket": "dibba-tech.firebasestorage.app",
+                        "messagingSenderId": "563649470637",
+                        "appId": "1:563649470637:web:370bf805c4093a9f4a6624"
+                    },
+                    "_config": {
+                        "name": "[DEFAULT]",
+                        "automaticDataCollectionEnabled": false
+                    },
+                    "_name": "[DEFAULT]",
+                    "_automaticDataCollectionEnabled": false,
+                    "_container": {
+                        "name": "[DEFAULT]",
+                        "providers": {}
+                    }
+                },
+                "databaseId": {
+                    "projectId": "dibba-tech",
+                    "database": "(default)"
+                },
+                "settings": {
+                    "host": "firestore.googleapis.com",
+                    "ssl": true,
+                    "ignoreUndefinedProperties": false,
+                    "cacheSizeBytes": 41943040,
+                    "experimentalForceLongPolling": false,
+                    "experimentalAutoDetectLongPolling": true,
+                    "experimentalLongPollingOptions": {},
+                    "useFetchStreams": true
+                }
+            }
+        },
+        "title": "ABC phone",
+        "deliverable": "No",
+        "status": "active",
+        "condition": "New - Box Pack",
+        "showSellerContact": false,
+        "postedDate": {
+            "seconds": 1738966631,
+            "nanoseconds": 160943000
+        }
+    },
+    {
+        "id": "qqIyYVJWaa9AaY4ubtjo",
+        "postedDate": {
+            "seconds": 1738966545,
+            "nanoseconds": 922744000
+        },
+        "price": "485555",
+        "subCategory": "Smartphone",
+        "description": "asdasdasda  asdasdasd",
+        "location": "Peshawar",
+        "imageUrls": [
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/14188382/pexels-photo-14188382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/18525574/pexels-photo-18525574/free-photo-of-unboxing-iphone-15-pro-max-box-in-natural-titanium-color-mention-zana_qaradaghy-on-instagram-while-use-this-photo-follow-on-instagram-zana_qaradaghy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16333805/pexels-photo-16333805/free-photo-of-a-blue-phone-case-sitting-on-top-of-a-laptop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16005007/pexels-photo-16005007/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ],
+        "condition": "New - Box Pack",
+        "deliverable": "No",
+        "status": "active",
+        "sellerId": "NibDZWYX3TTGJZu7XBeBN9zkBJ52",
+        "chats": 0,
+        "brand": "Zong",
+        "views": 0,
+        "likes": [],
+        "subSubCategory": null,
+        "mainCategory": "Mobile",
+        "showSellerContact": false,
+        "title": "Z Phone Ultra",
+        "pta": false,
+        "sellerRef": {
+            "converter": null,
+            "_key": {
+                "path": {
+                    "segments": [
+                        "projects",
+                        "dibba-tech",
+                        "databases",
+                        "(default)",
+                        "documents",
+                        "users",
+                        "NibDZWYX3TTGJZu7XBeBN9zkBJ52"
+                    ],
+                    "offset": 5,
+                    "len": 2
+                }
+            },
+            "type": "document",
+            "firestore": {
+                "app": {
+                    "_isDeleted": false,
+                    "_options": {
+                        "apiKey": "AIzaSyBXFbnHYkonuChj6E9rRLx_Ax8pk_7QlWw",
+                        "authDomain": "dibba-tech.firebaseapp.com",
+                        "projectId": "dibba-tech",
+                        "storageBucket": "dibba-tech.firebasestorage.app",
+                        "messagingSenderId": "563649470637",
+                        "appId": "1:563649470637:web:370bf805c4093a9f4a6624"
+                    },
+                    "_config": {
+                        "name": "[DEFAULT]",
+                        "automaticDataCollectionEnabled": false
+                    },
+                    "_name": "[DEFAULT]",
+                    "_automaticDataCollectionEnabled": false,
+                    "_container": {
+                        "name": "[DEFAULT]",
+                        "providers": {}
+                    }
+                },
+                "databaseId": {
+                    "projectId": "dibba-tech",
+                    "database": "(default)"
+                },
+                "settings": {
+                    "host": "firestore.googleapis.com",
+                    "ssl": true,
+                    "ignoreUndefinedProperties": false,
+                    "cacheSizeBytes": 41943040,
+                    "experimentalForceLongPolling": false,
+                    "experimentalAutoDetectLongPolling": true,
+                    "experimentalLongPollingOptions": {},
+                    "useFetchStreams": true
+                }
+            }
+        }
+    }
+]

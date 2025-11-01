@@ -1,0 +1,356 @@
+Camera Product
+
+[
+    {
+        "id": "okm1ZRqfJOWwIeIJadeL",
+        "deliverable": "Yes",
+        "postedDate": {
+            "seconds": 1738593859,
+            "nanoseconds": 823000000
+        },
+        "wifi-support": "Yes",
+        "subArea": null,
+        "description": "Abbottablad is selected but still we are able to post without selecting the subarea",
+        "sellerRef": {
+            "converter": null,
+            "_key": {
+                "path": {
+                    "segments": [
+                        "projects",
+                        "dibba-tech",
+                        "databases",
+                        "(default)",
+                        "documents",
+                        "users",
+                        "G7jVpHHepwRNJiBpJgdaYRwoZEi1"
+                    ],
+                    "offset": 5,
+                    "len": 2
+                }
+            },
+            "type": "document",
+            "firestore": {
+                "app": {
+                    "_isDeleted": false,
+                    "_options": {
+                        "apiKey": "AIzaSyBXFbnHYkonuChj6E9rRLx_Ax8pk_7QlWw",
+                        "authDomain": "dibba-tech.firebaseapp.com",
+                        "projectId": "dibba-tech",
+                        "storageBucket": "dibba-tech.firebasestorage.app",
+                        "messagingSenderId": "563649470637",
+                        "appId": "1:563649470637:web:370bf805c4093a9f4a6624"
+                    },
+                    "_config": {
+                        "name": "[DEFAULT]",
+                        "automaticDataCollectionEnabled": false
+                    },
+                    "_name": "[DEFAULT]",
+                    "_automaticDataCollectionEnabled": false,
+                    "_container": {
+                        "name": "[DEFAULT]",
+                        "providers": {}
+                    }
+                },
+                "databaseId": {
+                    "projectId": "dibba-tech",
+                    "database": "(default)"
+                },
+                "settings": {
+                    "host": "firestore.googleapis.com",
+                    "ssl": true,
+                    "ignoreUndefinedProperties": false,
+                    "cacheSizeBytes": 41943040,
+                    "experimentalForceLongPolling": false,
+                    "experimentalAutoDetectLongPolling": true,
+                    "experimentalLongPollingOptions": {},
+                    "useFetchStreams": true
+                }
+            }
+        },
+        "subCategory": "CCTV Camera",
+        "views": 28,
+        "title": "Testing form validation for posting ad",
+        "sellerId": "G7jVpHHepwRNJiBpJgdaYRwoZEi1",
+        "likes": [
+            "G7jVpHHepwRNJiBpJgdaYRwoZEi1"
+        ],
+        "subSubCategory": null,
+        "price": "5",
+        "showSellerContact": false,
+        "chats": 2,
+        "condition": "New",
+        "imageUrls": [
+            "https://w7.pngwing.com/pngs/405/338/png-transparent-beats-solo-2-beats-electronics-headphones-wireless-product-red-headphones-electronics-bluetooth-electronic-device-thumbnail.png",
+            "https://w7.pngwing.com/pngs/522/5/png-transparent-blu-ray-disc-home-theater-systems-lg-electronics-smart-tv-loudspeaker-home-products-television-speaker-sound-thumbnail.png",
+            "https://w7.pngwing.com/pngs/575/495/png-transparent-laptop-android-electronics-touchscreen-automotive-products-in-kind-laptop-gadget-automotive-computer-thumbnail.png",
+            "https://w7.pngwing.com/pngs/655/361/png-transparent-mobile-phone-display-blank-mobile-phone-white-phone-thumbnail.png",
+            "https://w7.pngwing.com/pngs/272/398/png-transparent-smartphone-android-os-samsung-galaxy-s-cellphone-mobile-phone-cell-phone-mobile-phone-touchscreen-thumbnail.png"
+        ],
+        "brand": "dahua-technology-ltd",
+        "mainCategory": "Camera",
+        "city": "Abbottabad",
+        "status": "Active"
+    },
+    {
+        "id": "keshYXktRErJUBe2tC6x",
+        "description": "vEry Good Camera",
+        "subSubCategory": null,
+        "deliverable": "Yes",
+        "showSellerContact": false,
+        "sellerId": "URrjJDMh5QdI8qULnPaacGuZOIG2",
+        "title": "CCTV Ultra",
+        "sellerRef": {
+            "converter": null,
+            "_key": {
+                "path": {
+                    "segments": [
+                        "projects",
+                        "dibba-tech",
+                        "databases",
+                        "(default)",
+                        "documents",
+                        "users",
+                        "URrjJDMh5QdI8qULnPaacGuZOIG2"
+                    ],
+                    "offset": 5,
+                    "len": 2
+                }
+            },
+            "type": "document",
+            "firestore": {
+                "app": {
+                    "_isDeleted": false,
+                    "_options": {
+                        "apiKey": "AIzaSyBXFbnHYkonuChj6E9rRLx_Ax8pk_7QlWw",
+                        "authDomain": "dibba-tech.firebaseapp.com",
+                        "projectId": "dibba-tech",
+                        "storageBucket": "dibba-tech.firebasestorage.app",
+                        "messagingSenderId": "563649470637",
+                        "appId": "1:563649470637:web:370bf805c4093a9f4a6624"
+                    },
+                    "_config": {
+                        "name": "[DEFAULT]",
+                        "automaticDataCollectionEnabled": false
+                    },
+                    "_name": "[DEFAULT]",
+                    "_automaticDataCollectionEnabled": false,
+                    "_container": {
+                        "name": "[DEFAULT]",
+                        "providers": {}
+                    }
+                },
+                "databaseId": {
+                    "projectId": "dibba-tech",
+                    "database": "(default)"
+                },
+                "settings": {
+                    "host": "firestore.googleapis.com",
+                    "ssl": true,
+                    "ignoreUndefinedProperties": false,
+                    "cacheSizeBytes": 41943040,
+                    "experimentalForceLongPolling": false,
+                    "experimentalAutoDetectLongPolling": true,
+                    "experimentalLongPollingOptions": {},
+                    "useFetchStreams": true
+                }
+            }
+        },
+        "location": "Rawalpindi",
+        "chats": 0,
+        "imageUrls": [
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/14188382/pexels-photo-14188382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/18525574/pexels-photo-18525574/free-photo-of-unboxing-iphone-15-pro-max-box-in-natural-titanium-color-mention-zana_qaradaghy-on-instagram-while-use-this-photo-follow-on-instagram-zana_qaradaghy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16004978/pexels-photo-16004978/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16333805/pexels-photo-16333805/free-photo-of-a-blue-phone-case-sitting-on-top-of-a-laptop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/16005007/pexels-photo-16005007/free-photo-of-apple-iphone-14-pro-max-mobile-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ],
+        "postedDate": {
+            "seconds": 1738362284,
+            "nanoseconds": 418619000
+        },
+        "condition": "New ",
+        "mainCategory": "Camera",
+        "subCategory": "CCTV Camera",
+        "wifiSupport": false,
+        "price": "1520",
+        "views": 0,
+        "brand": "HikVision",
+        "status": "active"
+    },
+    {
+        "id": "wMdA6YfslVg4UeV8XfZw",
+        "condition": "Open Box",
+        "subSubCategory": null,
+        "brand": "fujifilm",
+        "imageUrls": [
+            "https://w7.pngwing.com/pngs/405/338/png-transparent-beats-solo-2-beats-electronics-headphones-wireless-product-red-headphones-electronics-bluetooth-electronic-device-thumbnail.png",
+            "https://w7.pngwing.com/pngs/522/5/png-transparent-blu-ray-disc-home-theater-systems-lg-electronics-smart-tv-loudspeaker-home-products-television-speaker-sound-thumbnail.png",
+            "https://w7.pngwing.com/pngs/575/495/png-transparent-laptop-android-electronics-touchscreen-automotive-products-in-kind-laptop-gadget-automotive-computer-thumbnail.png",
+            "https://w7.pngwing.com/pngs/655/361/png-transparent-mobile-phone-display-blank-mobile-phone-white-phone-thumbnail.png",
+            "https://w7.pngwing.com/pngs/272/398/png-transparent-smartphone-android-os-samsung-galaxy-s-cellphone-mobile-phone-cell-phone-mobile-phone-touchscreen-thumbnail.png"
+        ],
+        "status": "Active",
+        "type": "DSLR",
+        "sensor-size": "1/0.4",
+        "deliverable": "No",
+        "views": 38,
+        "showSellerContact": false,
+        "title": "digital camera ",
+        "postedDate": {
+            "seconds": 1738130076,
+            "nanoseconds": 273000000
+        },
+        "location": "multan",
+        "sellerId": "p1VxCLYsltQPTqMsz7BIRlueq5n2",
+        "likes": [],
+        "chats": 0,
+        "subCategory": "Digital Camera",
+        "sellerRef": {
+            "converter": null,
+            "_key": {
+                "path": {
+                    "segments": [
+                        "projects",
+                        "dibba-tech",
+                        "databases",
+                        "(default)",
+                        "documents",
+                        "users",
+                        "p1VxCLYsltQPTqMsz7BIRlueq5n2"
+                    ],
+                    "offset": 5,
+                    "len": 2
+                }
+            },
+            "type": "document",
+            "firestore": {
+                "app": {
+                    "_isDeleted": false,
+                    "_options": {
+                        "apiKey": "AIzaSyBXFbnHYkonuChj6E9rRLx_Ax8pk_7QlWw",
+                        "authDomain": "dibba-tech.firebaseapp.com",
+                        "projectId": "dibba-tech",
+                        "storageBucket": "dibba-tech.firebasestorage.app",
+                        "messagingSenderId": "563649470637",
+                        "appId": "1:563649470637:web:370bf805c4093a9f4a6624"
+                    },
+                    "_config": {
+                        "name": "[DEFAULT]",
+                        "automaticDataCollectionEnabled": false
+                    },
+                    "_name": "[DEFAULT]",
+                    "_automaticDataCollectionEnabled": false,
+                    "_container": {
+                        "name": "[DEFAULT]",
+                        "providers": {}
+                    }
+                },
+                "databaseId": {
+                    "projectId": "dibba-tech",
+                    "database": "(default)"
+                },
+                "settings": {
+                    "host": "firestore.googleapis.com",
+                    "ssl": true,
+                    "ignoreUndefinedProperties": false,
+                    "cacheSizeBytes": 41943040,
+                    "experimentalForceLongPolling": false,
+                    "experimentalAutoDetectLongPolling": true,
+                    "experimentalLongPollingOptions": {},
+                    "useFetchStreams": true
+                }
+            }
+        },
+        "mainCategory": "Camera",
+        "description": "asdsadsdsddesddsdsdsds",
+        "price": "14000"
+    },
+    {
+        "id": "e4XKtXRlWRDgNosfanzs",
+        "likes": [
+            "8nJLyYW4oqXzu5b4Obo06ks58El2"
+        ],
+        "imageUrls": [
+            "https://w7.pngwing.com/pngs/405/338/png-transparent-beats-solo-2-beats-electronics-headphones-wireless-product-red-headphones-electronics-bluetooth-electronic-device-thumbnail.png",
+            "https://w7.pngwing.com/pngs/522/5/png-transparent-blu-ray-disc-home-theater-systems-lg-electronics-smart-tv-loudspeaker-home-products-television-speaker-sound-thumbnail.png",
+            "https://w7.pngwing.com/pngs/575/495/png-transparent-laptop-android-electronics-touchscreen-automotive-products-in-kind-laptop-gadget-automotive-computer-thumbnail.png",
+            "https://w7.pngwing.com/pngs/655/361/png-transparent-mobile-phone-display-blank-mobile-phone-white-phone-thumbnail.png",
+            "https://w7.pngwing.com/pngs/272/398/png-transparent-smartphone-android-os-samsung-galaxy-s-cellphone-mobile-phone-cell-phone-mobile-phone-touchscreen-thumbnail.png"
+        ],
+        "sellerRef": {
+            "converter": null,
+            "_key": {
+                "path": {
+                    "segments": [
+                        "projects",
+                        "dibba-tech",
+                        "databases",
+                        "(default)",
+                        "documents",
+                        "users",
+                        "p1VxCLYsltQPTqMsz7BIRlueq5n2"
+                    ],
+                    "offset": 5,
+                    "len": 2
+                }
+            },
+            "type": "document",
+            "firestore": {
+                "app": {
+                    "_isDeleted": false,
+                    "_options": {
+                        "apiKey": "AIzaSyBXFbnHYkonuChj6E9rRLx_Ax8pk_7QlWw",
+                        "authDomain": "dibba-tech.firebaseapp.com",
+                        "projectId": "dibba-tech",
+                        "storageBucket": "dibba-tech.firebasestorage.app",
+                        "messagingSenderId": "563649470637",
+                        "appId": "1:563649470637:web:370bf805c4093a9f4a6624"
+                    },
+                    "_config": {
+                        "name": "[DEFAULT]",
+                        "automaticDataCollectionEnabled": false
+                    },
+                    "_name": "[DEFAULT]",
+                    "_automaticDataCollectionEnabled": false,
+                    "_container": {
+                        "name": "[DEFAULT]",
+                        "providers": {}
+                    }
+                },
+                "databaseId": {
+                    "projectId": "dibba-tech",
+                    "database": "(default)"
+                },
+                "settings": {
+                    "host": "firestore.googleapis.com",
+                    "ssl": true,
+                    "ignoreUndefinedProperties": false,
+                    "cacheSizeBytes": 41943040,
+                    "experimentalForceLongPolling": false,
+                    "experimentalAutoDetectLongPolling": true,
+                    "experimentalLongPollingOptions": {},
+                    "useFetchStreams": true
+                }
+            }
+        },
+        "description": "this is the  camera battery",
+        "subCategory": "Accessory",
+        "title": "camera battery",
+        "status": "Active",
+        "price": "10000",
+        "location": "fasialabad",
+        "mainCategory": "Camera",
+        "chats": 0,
+        "sellerId": "p1VxCLYsltQPTqMsz7BIRlueq5n2",
+        "views": 4,
+        "showSellerContact": false,
+        "postedDate": {
+            "seconds": 1738129102,
+            "nanoseconds": 476000000
+        },
+        "subSubCategory": "Battery"
+    }
+]
+
+
